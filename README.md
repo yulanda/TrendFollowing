@@ -1,0 +1,2 @@
+# TrendFollowing
+TrendFollowing_project
